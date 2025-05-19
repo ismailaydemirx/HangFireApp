@@ -11,13 +11,14 @@ namespace HangFireApp.Controller
         [HttpGet]
         public IActionResult Get()
         {
-            BackgroundJob.Enqueue(() => BackgroundServives.HangFireWorks());
+            BackgroundJob.Enqueue(() => BackgroundTestServices.HangFireWorks());
             return Ok("Hangfire worked.");
         }
     }
 
-    public class BackgroundServives
+    public class BackgroundTestServices
     {
+        // also we can make this function async.
         public static void HangFireWorks()
         {
             Console.WriteLine($"Hangfire is working: {DateTime.UtcNow}");

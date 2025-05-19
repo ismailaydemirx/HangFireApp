@@ -1,5 +1,6 @@
 ﻿using Hangfire;
 using HangFireApp.Context;
+using HangFireApp.Controller;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,10 +13,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 // Add services to the container.
+// 1- set up hangfire libraries then
+// hangfire options to record SQL
 builder.Services.AddHangfire(config =>
 {
     config.UseSqlServerStorage(connectionString);
 });
+// register hangfire service
 builder.Services.AddHangfireServer();
 
 builder.Services.AddControllers();
@@ -32,8 +36,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Görselli dashboard çıkartmak için kullanıyoruz.
+// active hangfire dashboard
 app.UseHangfireDashboard();
+
+// scheduled job, hangfire can work with sync or async methods.
+RecurringJob.AddOrUpdate("test-print-job", () => BackgroundTestServices.HangFireWorks(), Cron.MinuteInterval(19));
 
 app.UseHttpsRedirection();
 
