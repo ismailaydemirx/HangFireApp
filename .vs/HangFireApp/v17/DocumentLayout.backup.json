@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Desktop\\Repositories\\HangFireApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|d:\\github desktop\\repositories\\hangfireapp\\hangfireapp\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|solutionrelative:hangfireapp\\controller\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|d:\\github desktop\\repositories\\hangfireapp\\hangfireapp\\hangfireapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|solutionrelative:hangfireapp\\hangfireapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|d:\\github desktop\\repositories\\hangfireapp\\hangfireapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|solutionrelative:hangfireapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|d:\\github desktop\\repositories\\hangfireapp\\hangfireapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|solutionrelative:hangfireapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|d:\\github desktop\\repositories\\hangfireapp\\hangfireapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|solutionrelative:hangfireapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|d:\\github desktop\\repositories\\hangfireapp\\hangfireapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53083000-E8B7-437F-B7C5-B96AD6D00813}|HangFireApp\\HangFireApp.csproj|solutionrelative:hangfireapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Controller\\ValuesController.cs",
+              "RelativeDocumentMoniker": "HangFireApp\\Controller\\ValuesController.cs",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Controller\\ValuesController.cs",
+              "RelativeToolTip": "HangFireApp\\Controller\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:51:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangFireApp",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\HangFireApp.csproj",
+              "RelativeDocumentMoniker": "HangFireApp\\HangFireApp.csproj",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\HangFireApp.csproj*",
+              "RelativeToolTip": "HangFireApp\\HangFireApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T17:49:56.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HangFireApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HangFireApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T17:42:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\appsettings.json",
+              "RelativeDocumentMoniker": "HangFireApp\\appsettings.json",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\appsettings.json",
+              "RelativeToolTip": "HangFireApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T17:42:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Program.cs",
+              "RelativeDocumentMoniker": "HangFireApp\\Program.cs",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Program.cs",
+              "RelativeToolTip": "HangFireApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:52:37.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HangFireApp\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Github Desktop\\Repositories\\HangFireApp\\HangFireApp\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "HangFireApp\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:45:16.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
